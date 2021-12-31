@@ -17,7 +17,7 @@ body{
 }
 .maincontent{
     height: 500px;
-    padding: 5px;
+    padding: 10px;
     background-color: #ddd;
 }
 .footer{
